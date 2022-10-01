@@ -1,6 +1,6 @@
 run
 somehow
-capcity
+capacity
 instance
 to handle
 responsiveness
