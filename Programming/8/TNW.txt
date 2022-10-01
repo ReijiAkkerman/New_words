@@ -71,3 +71,5 @@ same
 challenge
 next
 similar
+competing
+continually
