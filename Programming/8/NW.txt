@@ -1,75 +1,75 @@
-работать
-как-то
-вместимость, мощность, способность
-пример, образец
-обрабатывать
-чувствительность
-отзывчивый, ответный, чуткий
-одновременный
-по мере необходимости
-конечный, ограниченный
-по-видимому
-незначительный
-влияние, воздействие, удар
-воспринимать
-против
-по сравнению с 
-непосредственный, прямой
-сырой
-ломтик, часть
-заставлять, принуждать
-нарушать, разрушать
-вводный
-заставка
-разрешение
-в противном случае
-шпионское ПО 
-регистрировать
-нажатие клавиши
-записывать
-злостный, злокачетсвенный
-хаос, опустошение
-кувырок, оборот
-принести, привести
-сотрудничать, взаимодействовать
-совместно
-границы
-пересекать
-возникать
-в некотором роде
-похожий, сродни 
-детский сад 
-терпеливый
-нужды, потребности
-уравновешивать
-соблюдение
-забота, беспокойство
-ограничение
-ограничивать
-правильный
-толкание
-истинный, настоящий
-внизу, под
-принимать, вести 
-поверх
-помогать
-так же, как 
-удобный, подходящий
-входящий
-суждение
-датчик
-общий
-иметь значение
-иметь большое значение
-частый
-в связи
-излагать, формулировать
-адресовать
-сфера, область
-чтож
-такой же, одинаковый
-вызов, проблема, задача
-далее
-подобный, похожий
-конкурирующий
-постоянно
+run
+somehow
+capacity
+instance
+to handle
+responsiveness
+responsive 
+simultaneous
+as appropriate
+finite
+seemingly
+trivial
+impact
+perceive
+versus
+versus on 
+direct
+raw
+slice
+to force
+disrupt
+introductory
+saver
+permission
+otherwise
+spyware
+to log
+keystroke
+to record
+malignant
+havoc
+flip
+to fetch
+cooperate
+cooperatively
+boundaries
+cross
+arise
+somewhat
+akin
+kindergarten
+patient
+needs
+to balance
+enforcing
+concern
+constarint
+to limit
+right
+pushing
+true
+underneath
+to host
+atop
+aid
+just as 
+convenient
+incoming
+judgment
+sensor
+generic
+matter
+matter quite a bit
+frequent
+due
+pose 
+to address
+domain
+as well
+same 
+challenge
+next
+similar
+competing
+continually
