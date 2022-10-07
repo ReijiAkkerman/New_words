@@ -75,3 +75,9 @@ comparison
 packaging
 reuse
 repeatedly
+parentheses
+pop-up
+scoping
+is fired
+poke
+arrow
