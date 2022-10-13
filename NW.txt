@@ -1,553 +1,83 @@
-digging
-describe 
-mostly
-is that
-crash
-in a timely manner
-edge
-finite
-knapsack
-versus on 
-salesperson
-negative-weight
-bloom
-arrange
-particular
-incomplete
-communication
-because of
-pruning
-shifting
-customize
-likely
-since
-omit
-immediately
-overstate
-justify
-uniformly
-consistent
-amazingly
-familiarity
-unfortunately
-encounter
-row-wise
-applicate
-building
-range
-transfer
-extra
-preventing
-evolve
-prerequisites
-akin
-proceed
-concept
-issue
-simultaneous
-lookaside
-environment
-gloss
-to log
-worth
-succeed
-related
-payoff
-dependence
-reach out
-advent
-challenge
-right away
-referee
-to mask
-pushing
-jump out
-replication
-to mediate
-early
-claim
-as well
-ad hoc
-slice
-motivate
-reality
-resilient
-presence
-average
-fraction
-fool
-combination
-being said
-assume
-notice 
-quicksort
-frequent
-distribute
-order
-conquer
-remember
-regardless of
-predicting
-portion
-host
-infinite
-prone
-bug
-responsiveness
-side
-competing
-come away
-grateful
-power-aware
-as well as
-position
-survey
-once 
-go on
-industry
-stock
-dramatically
-given
-venue
-common
-expand
-saver
-perceive
-sparse
-eventually
-suggest
-mediocre
-factor
-recoverable
-socket
-contention
-given
-expansion
-by the way
-depend
-contribution
-pace 
-isolate
-havoc
-flip
-kindergarten
-enumeration
-treated
-surreptitiously
-insufficient
-versioning
-treating
-hope 
-concurrency
-buffer
-to order
-notation
-sort
-to juggle
-background
-subsequence
-handling 
-consistent
-to limit
-distance 
-multiple of 
-blizzard
-condition
-trade-off
-to fetch
-ahead
-to cause
-superficial
-reference
-advantage
-capacity
-to mention
-entirely
-right
-turn out
-meaningful
-boundaries
-persistent
-although
-plain
-to handle
-afterthought
-particular
-inclusion
-thread
-shift
-come up
-springboard
-specifically
-along
-textbook
-classifying
-exact
-destination
-convention
-pretty
-review
-is much the same
-reason
-deadline
-exchange 
-threat
-annotation
-picking
-sibling
-braking
-offset
-abound
-researcher
-to respond
-e.g.
-permission
-apart
-regression
-compare
-decouple
-depth
-limitations
-underneath
-to that end
-snapshot
-assign 
-handful
-equivalent
-affinity
-raw
-invoke
-abandoned
-to balance
-in turn
-impractical
-cross
-rarely
-reach
-commitment
-introduction
-trust
-hijack
-leap
-standalone
-untrusted
-accomplishing 
-exaggeration
-case 
-traveling
-stuff
-previously
-likewise
-meantime
-joy
-due
-completing
-extraction
-constrain
-beyond
-split
-introductory
-roommate
-somehow
-checksum
-evaluation
-switching
-overall
-similar
-behind
-attempt
-rapid
+reuse
+invent
+supply
 scope
-pull off
-savor
-comparing
-handy
-convenient
-constarint
-old-fashioned
-as if
-continually
-breadth-first
-checkers
-route 
-neighbors
-simple
-worst-case
-assignment
-deletion
-enable
-enormously
-to pad
-disk drive
-reliable
-curate
-challenging 
-ordinary
-conceptual
-accompany
-activity
-true
-by far
-applicable
-undergraduate
-guidance
-framework
-further
-generic
-remain
-store
-sophisticated
-pull
-magnitude
-direct
-apart from
-practice
-comprehensive
-throughout
-adopter
-specific
-caller
-approximation
-override
-type out
-consider
-privileges
-achieve
-go over
-matter
-introduce
-lest
-appropriate
-number
-trading 
-undo
-invert
-blueprint
-assumption
-malignant
-just as 
-inserting
-obvious
-subsequent
-treat
-integral
-to host
-discuss
-earlier
-suggestion
-glue
-render
-inherent
-response
-give up
-messing
-worked
-internals
-facilitate
-on each other
-clue
-dence 
-fortunate
-to master
-assignment
-twin
-particularly
-essential
-slowed down
-fault
-race
-robust
-buggy
-variety
-queue
-to interface
-expect
-rate
-absence
-approach
-transform
-preface
-lock
-trivial
-stage
-in particular
-behavior
-down to 
-sandboxing
-concern
-same 
-run
-exceed
-dangling
-ensure
-laid out
-pose 
-verbatim
-probably
-grad
-to process
-to address
-subject
-encourage
-utility
-stuff
-myriad
-broad
-throughout
-failures
-cooperatively
-voluntary
-complex
-seemingly
-yet
-innovate
-recurring
-dangerous
-to report
-harm
-overload
-discover
-accessible
-greedy
-concurrent
-seem
-lead
-highlighting
-convey
-instance
-substring
-despite
-corrupt
-cause
-keystroke
-duplicate
-discount
-matter quite a bit
-retain
-computation
-divide
-special
-by being able 
-towards
-enforcing
-handler
-semantics
-increasingly
-responsive 
-extensive 
-highway
-compromise
-wrong
-treatment
-realize
-to operate
-query
-capable
-self-contained
-incoming
-kernel
-in just
-rather
-logging
-needs
-somewhat
-as appropriate
-fun
-uniprocessor
-take on
-conclude
-malicious
-incredibly
-performance
-atop
-itinerary
-restrict
-sparse
-mapping
-up-to-date
-acknowledgments
-segmentation
-excitement
-complexity
-altogether
-appreciation
-instead
-suppose
-perhaps
-speed up
-lookup
-column-wise
-routines
-otherwise
-familiar
-recall
-implicitly
-arise
-recap
-publisher
-next
-throughput
-order
-sensor
-finally
-to point
-merge
-newbie
-leading-edge
-domain
-coworker
-rather
-to record
-used by
-sample
-gloss over
-to frame
-reinforce 
-goods
-failing
-spyware
-integrate
-long-term 
-refresher
-impact
-dominant
-entry
-far-fetched
-got into
-grasp
-impenetrable
-intend
-versus
-redundancy
-rate
-disrupt
-chock-full
-capable of
-cooperate
-purchase
-policy
-fill
-rely
-to force
-drive down
-challenge
-circular
-rest
-spread
-numerous
-interrupt
-scheduling
-establish
-layer
-to benefit
-involve
-underlying
-solvable
-simplify
-load factor
-aid
-internship
-patient
-collision
-stuck
-judgment
+generally
+arrow
+worth
+prompt
+hover
+peer
+relatively
+vast 
+head start
+subtraction
+credential
+longer 
+authenticate
+packaging
+versatile
+opposite
+to warn
+signify
+proofing
+to trust
+refer
+expression
+incorporate
+legal
+along
+just as
+turn
+parentheses
+get up
+greeting
+pop-up
+repeatedly
+variable
+restrict 
+sequence
+dimension
+equality
+accelerate
+snippet
+to alert 
+necessarily
+note that
+comparison
+revision
+poke
+scoping
+examine
+set up
+collecting
+precede
+accommodate
+employee
+gradually
+interactivity
+restriction
+to further
+opportunity
+to develope
+enclose
+to grab
+later
+negation
+alongside
+terminate
+is fired
+enabled
+perform
+effort
+to fix
+belong
+response 
+outside
+mind
+getting comfortable
+habit
+quirk
+distribution
+treat 
+below
