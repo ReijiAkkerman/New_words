@@ -1,51 +1,74 @@
-persisted
-halt
-schedule
-cron 
-imply
-passage
-provision
-recurrent
-expiration
-restore
-be regarded
-census
-species
-hamster
-born
-pertain
-considerations
-retrievals
-kitten
-litter
-match up
-prepend
-breeding
-collation
-provided that
-excess
-even though
-by how
-deviation
-participate
-along with
-facility
-audit
-charge
-free of charge
-vault
-mitigate
-sic
-fairly
-tracking
-inadvertently
-leak
-sensible
-worthy
-consideration
-transient
-differentiate
-sticky
-consume
-exhaustive
-gated
+primer
+mandatory
+by the time
+ever-changing
+affect
+relevance 
+effort
+unscrupulous
+discourage
+stuffing
+referred to as
+make up 
+instant
+crucial
+funnel
+pursue
+competitor
+outrank
+to rank
+prohibitive
+upfront
+expenses
+expand
+expenditure
+share
+to cater
+whitepaper
+broad
+revenue
+tend
+bid 
+spot
+vie
+consider 
+constantly
+tweak
+fence
+proverb
+fault
+crash
+bullet proof
+worth 
+trustworthy
+surreptitious
+wise
+approval
+fair 
+forwarded
+issue
+rogue
+forth
+mediate
+concept
+behalf
+akin
+asylum
+in charge of
+inmate
+straightjacket
+pad
+padded
+cell
+aside
+assume
+in much
+to merit
+activity
+unwary
+trip up
+to coin 
+immensely
+once again
+for a time
+cooperating
