@@ -1,57 +1,39 @@
-patient
-diminish
-coercion
-coerce
-nevertheless
-succinct
-enhance
-closer together
-pesky
-great deal of
-incorporate
-persist
-mitigate
-transfer
-resume
-just about
-succeed
-to last
-graceful
-tie up
-release
-suspend
-refine
-refined
-discriminate
-hook
-spawn
-suite
-fixture
-showdown
-intrusive
-is backed
-delegate
-conscious
-assert
-at most
-counterpart
-leverage
-the go-to
-crucial
-hood
-hall
-pretty much
+translucency
 ratio
-motion
-narrow
-shrink
-pan
-ancestor
-resemble
-altering
-flaw
-flawless
-come out
-eliminate
-splash
-bubble
+rectangle
+by how much
+neither of 
+direction
+predict
+frame
+compensate
+is affected by
+refer
+footage
+range
+be sourced
+comprise
+name
+hence
+lossy
+interlace
+intra
+inter 
+successive
+seek
+is referred
+as opposed to
+on how
+rate
+interleave
+on play back
+with respect to
+tube
+ray
+the opposite of
+ripple
+occupy
+sample rate
+rewind
+snap
+standardize
